@@ -1,0 +1,17 @@
+{
+    "name": "shuffling",
+    "short_name": "shuffling",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#673AB7",
+    "description": "Shuffling App",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "logo.svg",
+            "type": "image/svg"
+        }
+    ]
+}
